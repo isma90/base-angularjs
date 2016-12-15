@@ -1,0 +1,9 @@
+{
+  "directory": "vendor",
+  "json": "bower.json",
+
+  "registry" : {
+    "search" : [ "https://bower.herokuapp.com"],
+    "register" : "https://bower.herokuapp.com"
+  }
+}
